@@ -3,7 +3,13 @@
     "description": "Toast notifications for Laravel Livewire (session flash + events).",
     "type": "library",
     "license": "MIT",
-    "keywords": ["laravel", "livewire", "toast", "flash", "notification"],
+    "keywords": [
+        "laravel",
+        "livewire",
+        "toast",
+        "flash",
+        "notification"
+    ],
     "authors": [
         {
             "name": "Enes Ekinci",
@@ -34,5 +40,6 @@
         }
     },
     "minimum-stability": "stable",
-    "prefer-stable": true
+    "prefer-stable": true,
+    "version": "1.0.0"
 }
